@@ -1,0 +1,25 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: blue;
+    text-align: center;
+    padding: 10px 0px 10px 0px;
+}
+
+section {
+    color: orange;
+    width: 20%;
+    margin: 40px;
+    display: inline-block;
+    padding: 10px 0px 10px 0px;
+}
+
+footer {
+    background-color: blue;
+    text-align: center;
+    padding: 10px 0px 10px 0px;
+}
